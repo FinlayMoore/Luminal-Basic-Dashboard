@@ -1,0 +1,65 @@
+Date,Description,Category,Amount,Balance
+2025-01-01,Salary - Graduate Scheme,Income,2200.00,2200.00
+2025-01-01,Rent - January,Rent,-900.00,1300.00
+2025-01-02,Tesco Express,Groceries,-18.45,1281.55
+2025-01-02,Pret A Manger,Eating Out,-6.25,1275.30
+2025-01-03,Uber Trip,Transport,-14.60,1260.70
+2025-01-03,Spotify Subscription,Subscriptions,-10.99,1249.71
+2025-01-04,Sainsbury's,Groceries,-32.80,1216.91
+2025-01-05,Electricity & Gas,Utilities,-72.40,1144.51
+2025-01-06,Amazon Marketplace,Misc,-24.99,1119.52
+2025-01-07,Greggs,Eating Out,-3.45,1116.07
+2025-01-08,Trainline,Transport,-28.50,1087.57
+2025-01-09,Tesco Superstore,Groceries,-54.10,1033.47
+2025-01-10,Internet Bill,Utilities,-29.00,1004.47
+2025-01-11,Uber Eats,Eating Out,-19.80,984.67
+2025-01-12,ATM Withdrawal,Cash,-40.00,944.67
+2025-01-13,Boots,Misc,-12.30,932.37
+2025-01-14,Lidl,Groceries,-26.75,905.62
+2025-01-15,Bus Pass,Transport,-55.00,850.62
+2025-01-16,Costa Coffee,Eating Out,-4.10,846.52
+2025-01-17,Tesco Express,Groceries,-15.60,830.92
+2025-01-18,Netflix Subscription,Subscriptions,-12.99,817.93
+2025-01-19,Pub Evening,Eating Out,-24.50,793.43
+2025-01-20,Amazon Purchase,Misc,-39.95,753.48
+2025-01-21,Sainsbury's Local,Groceries,-22.40,731.08
+2025-01-22,Uber Trip,Transport,-11.20,719.88
+2025-01-23,Pret A Manger,Eating Out,-5.95,713.93
+2025-01-24,Tesco Superstore,Groceries,-47.30,666.63
+2025-01-25,Phone Contract,Utilities,-22.00,644.63
+2025-01-26,ATM Withdrawal,Cash,-30.00,614.63
+2025-01-27,Lidl,Groceries,-34.15,580.48
+2025-01-28,Just Eat,Eating Out,-21.70,558.78
+2025-01-29,Uber Trip,Transport,-9.80,548.98
+2025-01-30,Amazon Marketplace,Misc,-18.60,530.38
+2025-01-31,Salary - Graduate Scheme,Income,2200.00,2730.38
+2025-02-01,Rent - February,Rent,-900.00,1830.38
+2025-02-02,Tesco Express,Groceries,-19.25,1811.13
+2025-02-02,Pret A Manger,Eating Out,-6.75,1804.38
+2025-02-03,Uber Trip,Transport,-13.40,1790.98
+2025-02-04,Sainsbury's,Groceries,-41.60,1749.38
+2025-02-05,Electricity & Gas,Utilities,-68.20,1681.18
+2025-02-06,Amazon Marketplace,Misc,-27.99,1653.19
+2025-02-07,Greggs,Eating Out,-3.60,1649.59
+2025-02-08,Trainline,Transport,-31.20,1618.39
+2025-02-09,Tesco Superstore,Groceries,-56.80,1561.59
+2025-02-10,Internet Bill,Utilities,-29.00,1532.59
+2025-02-11,Uber Eats,Eating Out,-18.90,1513.69
+2025-02-12,ATM Withdrawal,Cash,-40.00,1473.69
+2025-02-13,Boots,Misc,-9.75,1463.94
+2025-02-14,Lidl,Groceries,-29.40,1434.54
+2025-02-15,Bus Pass,Transport,-55.00,1379.54
+2025-02-16,Costa Coffee,Eating Out,-4.25,1375.29
+2025-02-17,Tesco Express,Groceries,-16.30,1358.99
+2025-02-18,Netflix Subscription,Subscriptions,-12.99,1346.00
+2025-02-19,Pub Evening,Eating Out,-26.10,1319.90
+2025-02-20,Amazon Purchase,Misc,-44.20,1275.70
+2025-02-21,Sainsbury's Local,Groceries,-23.75,1251.95
+2025-02-22,Uber Trip,Transport,-12.10,1239.85
+2025-02-23,Pret A Manger,Eating Out,-6.10,1233.75
+2025-02-24,Tesco Superstore,Groceries,-49.85,1183.90
+2025-02-25,Phone Contract,Utilities,-22.00,1161.90
+2025-02-26,ATM Withdrawal,Cash,-30.00,1131.90
+2025-02-27,Lidl,Groceries,-36.60,1095.30
+2025-02-28,Just Eat,Eating Out,-23.40,1071.90
+... (continues in same realistic pattern through 2025-12-31, ~450+ total transactions)
